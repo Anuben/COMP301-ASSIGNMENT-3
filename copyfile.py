@@ -2,7 +2,6 @@
 
 Source = input(" Source : ")
 
-
 Destination = input(" Destination : ")
 
 with open(Source) as f:
