@@ -1,11 +1,11 @@
-     1,               Bharat Keshavala,       35
-     2,               Anu Keshavala,          25
-     3,               Odedara Aarati,         45
-     4,               Muliyasiya Rashi,       40 
-     5,               Keshavala Kamal,        20           
-     6,               Vala Prasant,           25
-     7,               Keshavala Nil,          35    
-     8,               Karavadara Raj,         40
-     9,               Modhavadiya Jay,        20
-     10,              Vala Ram,               25
+     1,              Bharat Keshavala,      35 hr.
+     2,              Anu Keshavala,         25 hr.
+     3,              Odedara Aarati,        45 hr.
+     4,              Muliyasiya Rashi,      40 hr.
+     5,              Keshavala Kamal,       20 hr.          
+     6,              Vala Prasant,          25 hr.
+     7,              Keshavala Nil,         35 hr.   
+     8,              Karavadara Raj,        40 hr.
+     9,              Modhavadiya Jay,       20 hr.
+     10,             Vala Ram,              25 hr.
      
