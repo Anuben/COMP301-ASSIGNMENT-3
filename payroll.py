@@ -13,6 +13,8 @@ print (tabulate([],headers=['\nEmployee Number\t','\nEmployee Name','\t\nHours W
 with open("data.txt", "r") as filestream:
 
         for line in filestream:
-            currentline = line.split(',')
+            currentline = line.split(",")
             total = str(str(currentline[0]) + str(currentline[1] + str(currentline[2])))
             print(total)
+            
+
